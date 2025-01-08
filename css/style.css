@@ -359,5 +359,6 @@ body{
     .col-p-6{ flex-basis: 50%; max-width: 50%; }
    .search a{margin-top: 16px;}
    nav{top: 110px;}
+   .navigation-bar{padding: 5px 0 8px 0;}
    
 }
